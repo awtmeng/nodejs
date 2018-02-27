@@ -1,7 +1,7 @@
 ## 简单的nodejs demo
 
 ### 1、文件系统，fs模块
-> api地址：http://nodejs.cn/api/fs.html#fs_fs_stat_path_callback
+> api地址：http://nodejs.cn/api/fs.html#fs_fs_stat_path_callback <br/>
 > demo：fs.js
 > 启动服务：npm run fs
 
