@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "fs": "node fs.js",
-    "ws": "node web-server.js"
+    "ws": "node webserver/http-form.js",
+    "ns": "node netserver/net.server.js"
   },
   "author": "",
   "license": "ISC"
